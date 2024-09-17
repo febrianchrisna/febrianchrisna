@@ -4,7 +4,7 @@ Perkenalkan nama saya **Febrian Chrisna**.<br>
 
 Saya seorang **Mahasiswa Informatika** di UPN Veteran "Yotgyakarta".<br>
 
-Saya adalah bagian dari Bangkit 2024.<br>
+Saya adalah bagian dari Cohort Bangkit 2024.<br>
 
 Saya aktif berorganisasi di HIMATIF UPN.<br>
 
