@@ -28,6 +28,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=febrianchrisna&show_icons=true&theme=tokyonight" alt="Febrian's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febrianchrisna&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrianchrisna&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 
 ### 🌐 Connect with Me
 
@@ -41,12 +54,6 @@
   <a href="https://febrianardianto.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=febrianardianto&theme=onedark&column=7" />
 </p>
 
 ---
