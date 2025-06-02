@@ -33,8 +33,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febrianchrisna&show_icons=true&theme=tokyonight" alt="Febrian's GitHub stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=febrianchrisna&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrianchrisna&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -45,10 +43,10 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/febrianardianto" target="_blank">
+  <a href="https://www.linkedin.com/in/febrian-chrisna-ardianto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:febrianardianto@gmail.com">
+  <a href="mailto:febriankrisna77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://febrianardianto.github.io" target="_blank">
