@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently studying **Informatics** at [UPN "Veteran" Yogyakarta](https://www.upnyk.ac.id)
-- 🌱 I’m currently learning more about **Web Development**, **Machine Learning**, and **Cloud Computing**
-- 💡 I love turning ideas into digital solutions through programming
-- 🌐 I'm passionate about open source and always eager to collaborate on meaningful projects
+- I’m currently studying **Informatics** at [UPN "Veteran" Yogyakarta](https://www.upnyk.ac.id)
+- I’m currently learning more about **Web Development**, **Machine Learning**, and **Cloud Computing**
+- I love turning ideas into digital solutions through programming
+- I'm passionate about open source and always eager to collaborate on meaningful projects
 
 ---
 
