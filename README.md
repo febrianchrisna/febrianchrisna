@@ -56,4 +56,4 @@
 
 ## 🐍 Watch my contributions turn into a snake!
 
-![Snake animation](https://github.com/febrianchrisna/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/febrianchrisna/snk/raw/output/github-grid-snake.svg)
