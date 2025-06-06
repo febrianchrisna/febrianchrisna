@@ -53,3 +53,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
+
+## 🐍 Watch my contributions turn into a snake!
+
+![Snake animation](https://github.com/febrianchrisna/snk/raw/output/github-contribution-grid-snake.svg)
