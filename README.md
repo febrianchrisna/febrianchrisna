@@ -38,6 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febrianchrisna&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+![GitHub Snake Dark](https://github.com/febrianchrisna/snk/raw/output/github-snake-dark.svg)
+
 ---
 
 ### 🌐 Connect with Me
@@ -54,11 +56,5 @@
   </a>
 </p>
 
-## 🐍 GitHub Snake
 
-![GitHub Snake Light](https://github.com/febrianchrisna/snk/raw/output/github-snake.svg)
-
-![GitHub Snake Dark](https://github.com/febrianchrisna/snk/raw/output/github-snake-dark.svg)
-
-![GitHub Snake Ocean](https://github.com/febrianchrisna/snk/raw/output/ocean.gif)
 
