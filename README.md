@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Febrian Chrisna Ardianto</h1>
-<h3 align="center"> QC Engineer Bootcamp at Berijalan Techno Center| 👨‍💻 Aspiring Programmer |🎓 Fresh Graduate UPN "Veteran" Yogyakarta</h3>
+<h3 align="center"> QC Engineer | 👨‍💻 Aspiring Programmer |🎓 Fresh Graduate UPN "Veteran" Yogyakarta</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+things+with+code!;Let%27s+connect+%F0%9F%91%8B" alt="Typing SVG" />
